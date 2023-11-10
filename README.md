@@ -24,9 +24,9 @@
       <td><code>#f24271</code></td>
     </tr>
     <tr>
-      <td><img style="border-radius: 100%" src="https://placehold.co/24x24/bc002d/bc002d.png"/></td>
+      <td><img style="border-radius: 100%" src="https://placehold.co/24x24/c21300/c21300.png"/></td>
       <td>RedSuns</td>
-      <td><code>#bc002d</code></td>
+      <td><code>#c21300</code></td>
     </tr>
     <tr>
       <td><img style="border-radius: 100%" src="https://placehold.co/24x24/a21a1c/a21a1c.png"/></td>
