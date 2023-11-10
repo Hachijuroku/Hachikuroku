@@ -106,6 +106,11 @@
     </tr>
     <!-- Base background colors -->
     <tr>
+      <td><img style="border-radius: 100%" src="https://placehold.co/24x24/1c1c23/1c1c23.png"/></td>
+      <td>Iwase</td>
+      <td><code>#1c1c23</code></td>
+    </tr>
+    <tr>
       <td><img style="border-radius: 100%" src="https://placehold.co/24x24/101213/101213.png"/></td>
       <td>Panda</td>
       <td><code>#101213</code></td>
