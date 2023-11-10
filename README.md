@@ -85,13 +85,13 @@
     </tr>
     <tr>
       <td><img style="border-radius: 100%" src="https://placehold.co/24x24/dfe3e5/dfe3e5.png"/></td>
-      <td>Text</td>
+      <td>Takeuchi</td>
       <td><code>#dfe3e5</code></td>
     </tr>
     <tr>
-      <td><img style="border-radius: 100%" src="https://placehold.co/24x24/b8c4ca/b8c4ca.png"/></td>
-      <td>Hoshino</td>
-      <td><code>#b8c4ca</code></td>
+      <td><img style="border-radius: 100%" src="https://placehold.co/24x24/b4c5e6/b4c5e6.png"/></td>
+      <td>Trueno</td>
+      <td><code>#b4c5e6</code></td>
     </tr>
     <tr>
       <td><img style="border-radius: 100%" src="https://placehold.co/24x24/8b97ad/8b97ad.png"/></td>
@@ -106,9 +106,9 @@
     </tr>
     <!-- Base background colors -->
     <tr>
-      <td><img style="border-radius: 100%" src="https://placehold.co/24x24/111d15/111d15.png"/></td>
-      <td>Base</td>
-      <td><code>#111d15</code></td>
+      <td><img style="border-radius: 100%" src="https://placehold.co/24x24/101213/101213.png"/></td>
+      <td>Panda</td>
+      <td><code>#101213</code></td>
     </tr>
     <tr>
       <td><img style="border-radius: 100%" src="https://placehold.co/24x24/091f12/091f12.png"/></td>
