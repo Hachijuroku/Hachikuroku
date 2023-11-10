@@ -100,9 +100,9 @@
     </tr>
     <!-- Surfaces -->
     <tr>
-      <td><img style="border-radius: 100%" src="https://placehold.co/24x24/252f30/252f30.png"/></td>
+      <td><img style="border-radius: 100%" src="https://placehold.co/24x24/222627/222627.png"/></td>
       <td>Sudo</td>
-      <td><code>#252f30</code></td>
+      <td><code>#222627</code></td>
     </tr>
     <!-- Base background colors -->
     <tr>
