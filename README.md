@@ -84,14 +84,14 @@
       <td><code>#342949</code></td>
     </tr>
     <tr>
-      <td><img style="border-radius: 100%" src="https://placehold.co/24x24/dfe3e5/dfe3e5.png"/></td>
-      <td>Takeuchi</td>
-      <td><code>#dfe3e5</code></td>
+      <td><img style="border-radius: 100%" src="https://placehold.co/24x24/d3d8e4/d3d8e4.png"/></td>
+      <td>Trueno</td>
+      <td><code>#d3d8e4</code></td>
     </tr>
     <tr>
-      <td><img style="border-radius: 100%" src="https://placehold.co/24x24/b4c5e6/b4c5e6.png"/></td>
-      <td>Trueno</td>
-      <td><code>#b4c5e6</code></td>
+      <td><img style="border-radius: 100%" src="https://placehold.co/24x24/b3b4af/b3b4af.png"/></td>
+      <td>Takeuchi</td>
+      <td><code>#b3b4af</code></td>
     </tr>
     <tr>
       <td><img style="border-radius: 100%" src="https://placehold.co/24x24/8b97ad/8b97ad.png"/></td>
