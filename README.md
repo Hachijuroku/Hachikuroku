@@ -111,9 +111,9 @@
       <td><code>#101213</code></td>
     </tr>
     <tr>
-      <td><img style="border-radius: 100%" src="https://placehold.co/24x24/091f12/091f12.png"/></td>
+      <td><img style="border-radius: 100%" src="https://placehold.co/24x24/080909/080909.png"/></td>
       <td>Nakazato</td>
-      <td><code>#091f12</code></td>
+      <td><code>#080909</code></td>
     </tr>
   </table>
 </details>
